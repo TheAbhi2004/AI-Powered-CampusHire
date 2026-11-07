@@ -44,10 +44,6 @@ students and recruiters using AI-powered job recommendations.
 - Prometheus
 - Grafana
 
-## Project Status
-
-Phase 0 - Environment and project setup.
-
 ## Author
 
 Abhishek Pal
